@@ -90,8 +90,10 @@ Endereço I2C do LCD: O endereço 0x27 é o mais comum, mas verifique o endereç
 
 ## 🤝 Equipe: Aqua Guard
 
-[<img src="https://avatars.githubusercontent.com/u/203848085?v=4" width="50px;" alt="Foto de Perfil do GitHub de Gabriel Akira"/><br /><sub>**Gabriel Akira**</sub>](https://github.com/Gakira06)
+[<img src="https://avatars.githubusercontent.com/u/203848085?v=4" width="80px;" alt="Foto de Perfil do GitHub de Gabriel Akira"/><br /><sub>**Gabriel Akira**</sub>](https://github.com/Gakira06)
+
 Gabriel Akira Borges - RM: 565191
 
-[<img src="https://avatars.githubusercontent.com/u/205759608?v=4" width="50px;" alt="Foto de Perfil do GitHub de Gustavo Santos"/><br /><sub>**Gustavo Santos**</sub>](https://github.com/gugasantos24)
+[<img src="https://avatars.githubusercontent.com/u/205759608?v=4" width="80px;" alt="Foto de Perfil do GitHub de Gustavo Santos"/><br /><sub>**Gustavo Santos**</sub>](https://github.com/gugasantos24)
+
 Gustavo Francisco Santos - RM: 561820
